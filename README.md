@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Health Hackers AI/ML Project group's repo. This will be the group's codebase. If you want to join the group and contribute write an email to kaggle at pablo-gomez.net. This repo will certainly grow over time, for now it's mostly a stub to help us get started. 
+Welcome to the Health Hackers AI/ML Project group's repo. This will be the group's codebase. If you want to join the group and contribute write an email to *kaggle at pablo-gomez.net* with your GitHub profile name. This repo will certainly grow over time, for now it's mostly a stub to help us get started. 
 
 In the first meeting we decided to work on the [Kaggle Histopathologic Cancer Detection Challenge](https://www.kaggle.com/c/histopathologic-cancer-detection/overview).
 
@@ -31,7 +31,7 @@ In the same prompt, you can install TensorFlow by running either `pip install te
 
 ### Slack
 
-TBA
+Send an email to *kaggle at pablo-gomez.net* and you will get an invite.
 
 ### GitHub
 
@@ -49,4 +49,4 @@ To participate on [Kaggle](https://www.kaggle.com/) you will have to sign up the
 
 Then you can join the competition [here](https://www.kaggle.com/c/histopathologic-cancer-detection/overview).
 
-Once you have accepted competition's terms you can download the related data [here](https://www.kaggle.com/c/11848/download-all).
+Once you have accepted competition's terms you can download the related data [here](https://www.kaggle.com/c/11848/download-all). Place the unzipped training and test data in the Data folder.
