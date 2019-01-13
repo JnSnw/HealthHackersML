@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Health Hackers AI/ML Project group's repo. This will be the group's codebase. If you want to join the group and contribute write an email to kaggle at pablo-gomez.net. This repo will certainly grow over time, for now it's mostly a stub to help us get started. 
+Welcome to the Health Hackers AI/ML Project group's repo. This will be the group's codebase. If you want to join the group and contribute write an email to kaggle at pablo-gomez.net with your GitHub profile name. This repo will certainly grow over time, for now it's mostly a stub to help us get started. 
 
 In the first meeting we decided to work on the [Kaggle Histopathologic Cancer Detection Challenge](https://www.kaggle.com/c/histopathologic-cancer-detection/overview).
 
