@@ -2,6 +2,8 @@
 
 Welcome to the Health Hackers AI/ML Project group's repo. This will be the group's codebase. If you want to join the group and contribute write an email to *kaggle at pablo-gomez.net* with your GitHub profile name. This repo will certainly grow over time, for now it's mostly a stub to help us get started. 
 
+Most of the following stuff is only relevant if you want to run the code locally. If you want to work with Kaggle Kernels you do not need to install below things.
+
 In the first meeting we decided to work on the [Kaggle Histopathologic Cancer Detection Challenge](https://www.kaggle.com/c/histopathologic-cancer-detection/overview).
 
 If you have any questions or problems you can, of course, ask at the meetings, in the issues section here or via email/Slack.
@@ -20,11 +22,13 @@ We recommend using the [anaconda python platform](https://www.anaconda.com/distr
 
 You can find installers for Windows, Linux and macOS [here](https://www.anaconda.com/download/).
 
+Dependencies (install via `pip install <modulename>` in Anaconda prompt): cv2, tqdm, pandas, keras
+
 ### TensorFlow
 
 At the first meeting it was decided that we will use [TensorFlow](https://www.tensorflow.org). 
 
-Currently, TensorFlow does not support Python 3.7, therefore you will need to install 3.6. You can do this in the anaconda prompt by executing `conda install python=3.6` .
+Currently, TensorFlow does not support Python 3.7, therefore you will need to install 3.6. You can do this in the Anaconda prompt by executing `conda install python=3.6` .
 
 In the same prompt, you can install TensorFlow by running either `pip install tensorflow` or `pip install tensorflow-gpu` if you have a CUDA compatible GPU. If you want to use the GPU version you will need to install [additional dependencies](https://www.tensorflow.org/install/gpu). 
 ## Setup your Kaggle, GitHub and Slack
