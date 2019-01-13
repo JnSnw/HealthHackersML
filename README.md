@@ -53,4 +53,4 @@ To participate on [Kaggle](https://www.kaggle.com/) you will have to sign up the
 
 Then you can join the competition [here](https://www.kaggle.com/c/histopathologic-cancer-detection/overview).
 
-Once you have accepted competition's terms you can download the related data [here](https://www.kaggle.com/c/11848/download-all). Place the unzipped training and test data in the Data folder.
+Once you have accepted competition's terms you can download the related data [here](https://www.kaggle.com/c/11848/download-all). Locally, place the unzipped training and test data in the Data folder. If you want to work on with Kaggle Kernels online you can create a kernel [here](https://www.kaggle.com/c/histopathologic-cancer-detection/kernels)
