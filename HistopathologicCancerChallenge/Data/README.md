@@ -1,0 +1,1 @@
+Put the competition data in this folder

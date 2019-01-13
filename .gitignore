@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+/HistopathologicCancerChallenge/Data
+/HistopathologicCancerChallenge/Out
+!/HistopathologicCancerChallenge/Data/README.md
+!/HistopathologicCancerChallenge/Out/README.md
+/HistopathologicCancerChallenge/.vscode/settings.json
