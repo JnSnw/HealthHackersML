@@ -41,7 +41,7 @@ Send an email to *kaggle at pablo-gomez.net* and you will get an invite.
 
 If you are new to using git,  you can find an introduction [online](https://www.atlassian.com/git/tutorials/what-is-version-control).
 
-A guide to installing to git on the common operating systems can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+A guide to installing to git on the common operating systems can be found [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 Depending on your terminal affinity, you might also want a GUI like GitKraken, TortoiseGit, etc.
 
@@ -53,4 +53,10 @@ To participate on [Kaggle](https://www.kaggle.com/) you will have to sign up the
 
 Then you can join the competition [here](https://www.kaggle.com/c/histopathologic-cancer-detection/overview).
 
-Once you have accepted competition's terms you can download the related data [here](https://www.kaggle.com/c/11848/download-all). Locally, place the unzipped training and test data in the Data folder. If you want to work on with Kaggle Kernels online you can create a kernel [here](https://www.kaggle.com/c/histopathologic-cancer-detection/kernels)
+Once you have accepted competition's terms you can download the related data [here](https://www.kaggle.com/c/11848/download-all). Locally, place the unzipped training and test data in the Data folder. 
+
+If you want to work on with Kaggle Kernels online you can create a kernel [here](https://www.kaggle.com/c/histopathologic-cancer-detection/kernels).
+
+## Usage
+
+For now, you can [run the Keras Starter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html) in the notebooks folder. Currently, it only allows loading the data (once placed in the data folder) and training a simple convolutional neural network on it. 
