@@ -8,6 +8,7 @@ def zscore_images(X):
     Returns:
         np array: z scored images
     """
+	X = X.astype(np.float32)
     for i,image in enumerate(X):
         for channel in range(image.shape[2]):
             image[:,:,channel] = image[:,:,channel] - np.mean(image[:,:,channel])
